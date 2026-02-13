@@ -164,7 +164,62 @@ This project is licensed under the **MIT License** — feel free to use and modi
 
 # 🚀 Meta AI Agent GUI
 
-<img src="meta-ai-agent-preview.png" width="900"/>
+<img src="meta-ai-agent-preview.png" width="100%" />
 
-A powerful Meta AI Agent Desktop Application built with Python and Tkinter...
+![Python](https://img.shields.io/badge/Python-3.8+-blue)
+![Tkinter](https://img.shields.io/badge/GUI-Tkinter-green)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
+> An intelligent desktop AI agent built with Python that performs sentiment analysis, generates data visualizations, and exports automated PDF reports — all inside a clean graphical interface.
+
+---
+
+## 📌 Overview
+
+**Meta AI Agent GUI** simulates how intelligent software agents analyze user goals, process textual data, and present insights visually.
+
+Designed with a strong focus on **performance, usability, and simplicity**, this project demonstrates practical AI + GUI integration — making it an excellent portfolio project for roles in:
+
+✅ AI Engineering  
+✅ Data Science  
+✅ Python Development  
+
+---
+
+## ✨ Key Features
+
+✔️ **AI Sentiment Analysis**  
+Uses TextBlob NLP to classify text as **Positive, Negative, or Neutral**.
+
+✔️ **Real-Time Data Visualization**  
+Automatically generates histograms using Matplotlib embedded inside Tkinter.
+
+✔️ **Automated PDF Reports**  
+Exports professional reports with analyzed results via ReportLab.
+
+✔️ **Fast & Lightweight**  
+No heavy model downloads — optimized for quick startup.
+
+✔️ **Modern Desktop Interface**  
+Responsive Tkinter GUI with scrollable console output.
+
+---
+
+## 🛠️ Tech Stack
+
+**Language**
+- Python 3.8+
+
+**Libraries**
+- Tkinter — GUI  
+- TextBlob — NLP sentiment analysis  
+- NumPy — Data generation  
+- Matplotlib — Visualization  
+- ReportLab — PDF creation  
+- Threading — Non-blocking UI  
+
+---
+
+## 📂 Project Structure
+
 
