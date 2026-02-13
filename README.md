@@ -168,5 +168,5 @@ This project is licensed under the **MIT License** — feel free to use and modi
 
 A powerful Meta AI Agent Desktop Application built with Python and Tkinter...
 
-
+![Demo](demo.gif)
 
