@@ -164,5 +164,5 @@ This project is licensed under the **MIT License** — feel free to use and modi
 
 ## 📸 Application Preview
 
-![Meta AI Agent GUI](Screenshot.png)
+![Meta AI Agent GUI](Screenshot 2026-02-13 at 7.44.23 PM.png)
 
