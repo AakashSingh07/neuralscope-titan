@@ -1,24 +1,26 @@
 # 🚀 Meta AI Agent GUI
 
-A powerful **Meta AI Agent Desktop Application** built with **Python and Tkinter** that performs sentiment analysis, generates data visualizations, and creates automated PDF reports.
+<img src="meta-ai-agent-preview.png" width="100%" />
 
-This project demonstrates practical implementation of AI concepts combined with GUI development, making it an excellent portfolio project for roles in **AI, Data Science, and Python Development.**
+![Python](https://img.shields.io/badge/Python-3.8+-blue)
+![GUI](https://img.shields.io/badge/GUI-Tkinter-green)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
+> A powerful desktop AI agent built with **Python and Tkinter** that performs sentiment analysis, generates data visualizations, and exports automated PDF reports — all inside a clean graphical interface.
 
 ---
 
 ## 📌 Overview
 
-The Meta AI Agent is designed to simulate how intelligent agents analyze data and present insights visually.
+**Meta AI Agent GUI** demonstrates how intelligent software agents analyze user goals, process textual data, and present insights visually.
 
-The application allows users to:
+This project combines **Artificial Intelligence concepts with desktop GUI development**, making it an excellent portfolio project for roles in:
 
-✅ Enter an AI agent goal  
-✅ Run automated sentiment analysis  
-✅ View real-time data distribution charts  
-✅ Generate professional PDF reports  
-✅ Interact through a clean desktop GUI  
+✅ AI Engineering  
+✅ Data Science  
+✅ Python Development  
 
-This project focuses on **performance, simplicity, and real-world usability.**
+Built with a focus on **performance, simplicity, and real-world usability.**
 
 ---
 
@@ -28,37 +30,37 @@ This project focuses on **performance, simplicity, and real-world usability.**
 - Uses **TextBlob NLP** to analyze sentiment polarity.
 - Classifies text as **Positive, Negative, or Neutral.**
 
-### 📊 Data Visualization
-- Automatically generates a histogram showing data distribution.
-- Built using **Matplotlib embedded inside Tkinter.**
+### 📊 Real-Time Data Visualization
+- Automatically generates histograms showing data distribution.
+- Implemented using **Matplotlib embedded inside Tkinter.**
 
 ### 📄 Automated PDF Reports
-- Creates downloadable reports with agent results.
-- Implemented using **ReportLab.**
+- Creates professional downloadable reports with analyzed results.
+- Powered by **ReportLab.**
 
-### ⚡ Fast Model Loading
-- Simulated lightweight model loading.
+### ⚡ Fast & Lightweight
+- Simulated model loading for quick startup.
 - No heavy downloads required.
 
-### 🖥️ Desktop GUI
+### 🖥️ Modern Desktop GUI
 - Built completely with **Tkinter**
 - Smooth and responsive interface
-- Scrollable output console
+- Scrollable output console for better readability
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Language:**  
+### Language
 - Python 3.8+
 
-**Libraries Used:**
-- Tkinter → GUI  
-- TextBlob → NLP sentiment analysis  
-- NumPy → Data generation  
-- Matplotlib → Charts  
-- ReportLab → PDF creation  
-- Threading → Non-blocking UI  
+### Libraries Used
+- **Tkinter** — GUI development  
+- **TextBlob** — NLP sentiment analysis  
+- **NumPy** — Data generation  
+- **Matplotlib** — Visualization  
+- **ReportLab** — PDF creation  
+- **Threading** — Non-blocking UI  
 
 ---
 
@@ -67,21 +69,21 @@ This project focuses on **performance, simplicity, and real-world usability.**
 ```
 meta-ai-agent/
 │
-├── app.py
-├── requirements.txt
-├── README.md
+├── app.py                # Main application
+├── requirements.txt     # Dependencies
+├── README.md            # Documentation
 ├── LICENSE
 ├── .gitignore
 │
-├── agent_architecture/
-├── code_generator/
-├── deployment/
-└── goal_analysis/
+├── agent_architecture/  # Agent design logic
+├── code_generator/      # Code generation module
+├── deployment/         # Deployment configs
+└── goal_analysis/      # Goal processing logic
 ```
 
 ---
 
-## ⚙️ Installation
+## ⚙️ Installation & Setup
 
 ### 1️⃣ Clone the Repository
 
@@ -90,17 +92,19 @@ git clone https://github.com/AakashSingh07/meta-ai-agent.git
 cd meta-ai-agent
 ```
 
----
-
 ### 2️⃣ Create Virtual Environment (Recommended)
 
+**Mac/Linux**
 ```bash
 python -m venv venv
-source venv/bin/activate      # Mac/Linux
-venv\Scripts\activate        # Windows
+source venv/bin/activate
 ```
 
----
+**Windows**
+```bash
+python -m venv venv
+venv\Scripts\activate
+```
 
 ### 3️⃣ Install Dependencies
 
@@ -116,37 +120,37 @@ pip install -r requirements.txt
 python app.py
 ```
 
-The GUI will open instantly.
+✅ The GUI launches instantly.
 
 ---
 
 ## 📈 How It Works
 
-1. Enter your AI agent goal.
-2. Click **Run Agent**.
-3. The agent performs sentiment analysis.
-4. A data histogram is generated automatically.
-5. Export the results using **Generate PDF Report**.
+1️⃣ Enter your AI agent goal  
+2️⃣ Click **Run Agent**  
+3️⃣ Sentiment analysis is executed  
+4️⃣ A histogram visualization is generated  
+5️⃣ Export results using **Generate PDF Report**
 
 ---
 
 ## 🎯 Use Cases
 
-✅ AI portfolio project  
-✅ Python GUI demonstration  
-✅ NLP beginner project  
-✅ College major project  
-✅ Resume booster  
+✔ AI Portfolio Project  
+✔ Python GUI Demonstration  
+✔ NLP Beginner Project  
+✔ College Major Project  
+✔ Resume Booster  
 
 ---
 
 ## 🔥 Future Improvements
 
-- Integrate real transformer models  
-- Add voice-based agents  
-- Connect to OpenAI / LLM APIs  
-- Export charts inside PDF  
-- Deploy as standalone desktop app  
+- Integrate transformer-based models  
+- Add voice-enabled AI agents  
+- Connect with OpenAI / LLM APIs  
+- Embed charts inside exported PDFs  
+- Package as a standalone desktop application  
 
 ---
 
@@ -154,72 +158,10 @@ The GUI will open instantly.
 
 **Aakash Singh**
 
-If you like this project, consider giving it a ⭐ on GitHub!
+If you found this project helpful, consider giving it a ⭐ on GitHub!
 
 ---
 
 ## 📜 License
 
 This project is licensed under the **MIT License** — feel free to use and modify it.
-
-# 🚀 Meta AI Agent GUI
-
-<img src="meta-ai-agent-preview.png" width="100%" />
-
-![Python](https://img.shields.io/badge/Python-3.8+-blue)
-![Tkinter](https://img.shields.io/badge/GUI-Tkinter-green)
-![License](https://img.shields.io/badge/License-MIT-yellow)
-
-> An intelligent desktop AI agent built with Python that performs sentiment analysis, generates data visualizations, and exports automated PDF reports — all inside a clean graphical interface.
-
----
-
-## 📌 Overview
-
-**Meta AI Agent GUI** simulates how intelligent software agents analyze user goals, process textual data, and present insights visually.
-
-Designed with a strong focus on **performance, usability, and simplicity**, this project demonstrates practical AI + GUI integration — making it an excellent portfolio project for roles in:
-
-✅ AI Engineering  
-✅ Data Science  
-✅ Python Development  
-
----
-
-## ✨ Key Features
-
-✔️ **AI Sentiment Analysis**  
-Uses TextBlob NLP to classify text as **Positive, Negative, or Neutral**.
-
-✔️ **Real-Time Data Visualization**  
-Automatically generates histograms using Matplotlib embedded inside Tkinter.
-
-✔️ **Automated PDF Reports**  
-Exports professional reports with analyzed results via ReportLab.
-
-✔️ **Fast & Lightweight**  
-No heavy model downloads — optimized for quick startup.
-
-✔️ **Modern Desktop Interface**  
-Responsive Tkinter GUI with scrollable console output.
-
----
-
-## 🛠️ Tech Stack
-
-**Language**
-- Python 3.8+
-
-**Libraries**
-- Tkinter — GUI  
-- TextBlob — NLP sentiment analysis  
-- NumPy — Data generation  
-- Matplotlib — Visualization  
-- ReportLab — PDF creation  
-- Threading — Non-blocking UI  
-
----
-
-## 📂 Project Structure
-
-
