@@ -1,14 +1,13 @@
-## 🧠 NeuralScope TITAN Interface
-### Cognitive Intelligence Infrastructure for Elite Operators
+# 🧠 NeuralScope TITAN — Executive AI Intelligence Platform
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://neuralscope-titan.streamlit.app)
+[![Python](https://img.shields.io/badge/Python-3.9+-blue?style=for-the-badge)]()
+[![Streamlit](https://img.shields.io/badge/Built%20With-Streamlit-red?style=for-the-badge)]()
+[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)]()
 
 <img width="1400" alt="NeuralScope TITAN UI" src="https://github.com/AakashSingh07/neuralscope-titan/blob/main/neuralscope-preview.png">
 
 ---
-
-# 🧠 NeuralScope TITAN — Executive AI Intelligence Platform
-
-### 🚀 Live AI App:
-👉 https://neuralscope-titan.streamlit.app
 
 ## ⚡ Overview
 
@@ -169,7 +168,7 @@ This is how modern AI tooling is engineered.
 ## ▶️ Run Locally
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/neuralscope-titan.git
+git clone https://github.com/AakashSingh07/neuralscope-titan.git
 
 cd neuralscope-titan
 
@@ -180,65 +179,4 @@ venv\Scripts\activate           # Windows
 
 pip install -r requirements.txt
 
-streamlit run neuralscope_titan.py
-```
-
-Launches instantly in your browser.
-
----
-
-## 🎯 Ideal For Roles In
-
-- AI Engineering  
-- Applied Machine Learning  
-- Intelligent Systems  
-- Data Science  
-- Platform Engineering  
-- High-performance Python  
-
-This repository demonstrates the ability to build **production-style AI products**, not just experiments.
-
----
-
-## 📈 What Makes TITAN Different?
-
-Most candidates present models.
-
-Very few present systems.
-
-Even fewer present **product intuition.**
-
-NeuralScope TITAN communicates all three immediately.
-
-That is intentional.
-
----
-
-## 🔮 Future Evolution
-
-Planned upgrades push TITAN toward a full intelligence platform:
-
-- LLM-generated executive narratives  
-- Multi-page consulting reports  
-- Population percentile ranking  
-- Cognitive archetype detection  
-- Cloud deployment  
-- API layer  
-- Authentication  
-- Multi-user dashboards  
-
-The long-term vision is a scalable cognitive decision engine.
-
----
-
-## 👨‍💻 Author
-
-**Aakash Singh**
-
-If this project impressed you, consider giving it a ⭐  
-It helps more than you think.
-
----
-
-## 📜 License
-MIT
+streamlit run app.py
