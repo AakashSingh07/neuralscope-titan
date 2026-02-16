@@ -5,6 +5,11 @@
 
 ---
 
+# 🧠 NeuralScope TITAN — Executive AI Intelligence Platform
+
+### 🚀 Live AI App:
+👉 https://neuralscope-titan.streamlit.app
+
 ## ⚡ Overview
 
 **NeuralScope TITAN** is a high-performance cognitive intelligence platform that analyzes life and career goals, models execution probability, and generates executive-level strategic insight.
