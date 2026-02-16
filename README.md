@@ -1,7 +1,7 @@
 # 🧠 NeuralScope TITAN — Executive AI Intelligence Platform
 
-![Python](https://img.shields.io/badge/Python-3.9+-blue)
-![Built With](https://img.shields.io/badge/Built%20With-Streamlit-red)
+![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
+![Built with Streamlit](https://img.shields.io/badge/Built%20With-Streamlit-red)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Live%20App-brightgreen)
 
@@ -26,7 +26,12 @@ Experience the platform exactly as recruiters and hiring managers will.
 
 **NeuralScope TITAN** is a high-performance cognitive intelligence platform that analyzes life and career goals, models execution probability, and generates executive-level strategic insight.
 
-It is engineered to resemble a **venture-scale analytics product**, showcasing not just machine intelligence — but **product thinking, system design, and performance engineering.**
+It is engineered to resemble a **venture-scale analytics product**, showcasing:
+
+- Product thinking  
+- System design  
+- Performance engineering  
+- Decision intelligence  
 
 > ❗ This is not a notebook project.  
 > ❗ This is not a toy dashboard.  
@@ -38,13 +43,13 @@ It is engineered to resemble a **venture-scale analytics product**, showcasing n
 
 Most AI projects answer:
 
-> *“What will happen?”*
+> **“What will happen?”**
 
 TITAN answers:
 
-> **“What should you do next?”**
+> 🔥 **“What should you do next?”**
 
-That shift — from **prediction → decision intelligence** — separates academic models from real-world AI systems.
+That shift — from prediction → **decision intelligence** — separates academic models from real-world AI systems.
 
 TITAN converts ambition into structured clarity.
 
@@ -52,7 +57,7 @@ TITAN converts ambition into structured clarity.
 
 ## 🔥 Why Recruiters Notice This Project
 
-NeuralScope TITAN instantly communicates **senior engineering signals**:
+NeuralScope TITAN instantly communicates senior engineering signals:
 
 ✅ System-level thinking  
 ✅ Decision-support UX  
@@ -71,9 +76,9 @@ TITAN evaluates high-signal cognitive dimensions:
 
 - **Clarity Index** — Goal definition strength  
 - **Execution Score** — Delivery consistency probability  
-- **Leadership Projection** — Initiative & directional capability  
+- **Leadership Projection** — Initiative & direction  
 - **Difficulty Modeling** — Ambition vs feasibility  
-- **Success Probability** — Composite outcome forecasting  
+- **Success Probability** — Composite forecasting  
 - **Momentum Rating** — Forward acceleration  
 - **Resilience Score** — Long-term sustainability  
 - **Risk Exposure** — Execution volatility detection  
@@ -99,7 +104,7 @@ The interface prioritizes **clarity under complexity**, mirroring modern analyti
 
 ## 📄 Executive Intelligence Reports
 
-TITAN generates consulting-grade PDF reports including:
+TITAN generates consulting-grade PDF reports containing:
 
 ✔ AI Executive Verdict  
 ✔ Cognitive Metrics Table  
@@ -141,10 +146,10 @@ Every architectural decision reinforces these priorities.
 ## 🛠 Tech Stack
 
 ### Language
-- Python  
+- Python
 
 ### Framework
-- Streamlit  
+- Streamlit
 
 ### AI / Data
 - TextBlob  
@@ -207,7 +212,7 @@ Launches instantly in your browser.
 - Intelligent Systems  
 - Data Science  
 - Platform Engineering  
-- High-Performance Python  
+- High-performance Python  
 
 This repository demonstrates the ability to build **production-style AI products**, not just experiments.
 
